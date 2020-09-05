@@ -1,4 +1,7 @@
-/* Make A Person - Fill in the object constructor with the following methods below:
+/* 
+Title: Make A Person 
+
+Description: Fill in the object constructor with the following methods below:
 - getFirstName()
 - getLastName()
 - getFullName()
