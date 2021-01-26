@@ -1,0 +1,3 @@
+# JavaScript Exercises
+
+These are some exercises I worked through to help build up my skills with higher order array methods and to practice more ES6+ syntax. Many of these exercises test your knowledge in various topics such as: regular expressions, accessing data from within nested data structures, and looping through the elements of an array. Working through these helped prepare me for working with React.
